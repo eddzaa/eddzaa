@@ -2,6 +2,8 @@
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://edvindsouza.com">Edvin Dsouza</a><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></b>
         </samp>
+        <img align="right" alt="Coding" width="400" src="https://github.com/eddzaa/eddzaa/blob/master/Designer.gif">
+
 </h3>
 <p> 
   <samp>
@@ -10,7 +12,6 @@
     <br>
   </samp>
 </p>
-<img align="right" alt="Coding" width="400" src="https://github.com/eddzaa/eddzaa/blob/master/Designer.gif">
 <h4 align="left">⚙️Tools:</h4>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="aws" width="40" height="40"/> </a>
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
