@@ -1,16 +1,16 @@
 ### Hi there 👋
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://edvindsouza.com">Edvin Dsouza</a></b>
+        </samp>
+</h3>
+<p align="center"> 
+  <samp>
+    「 I am a DevOps Engineer from <b>Toronto</b> 」
+    <br>
+    <br>
+  </samp>
+</p>
+<img src="https://github.com/eddzaa/eddzaa/blob/master/image_processing20210908-11991-7bi2p8.gif">
 
-<!--
-**eddzaa/eddzaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
