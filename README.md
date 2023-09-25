@@ -1,6 +1,6 @@
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://edvindsouza.com">Edvin Dsouza</a></b>
+                <b><a target="_blank" href="https://edvindsouza.com">Edvin Dsouza</a><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></b>
         </samp>
 </h3>
 <p align="center"> 
