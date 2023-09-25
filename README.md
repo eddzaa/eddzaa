@@ -5,7 +5,7 @@
 </h3>
 <p align="center"> 
   <samp>
-    「DevOps Engineer based on <b>Toronto</b> 」
+    「DevOps Engineer」
     <br>
     <br>
   </samp>
