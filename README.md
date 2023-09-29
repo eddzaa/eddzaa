@@ -2,7 +2,7 @@
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://edvindsouza.com">Edvin Dsouza</a><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></b>
         </samp>
-        <img align="right" alt="Coding" width="400" src="https://github.com/eddzaa/eddzaa/blob/master/Designer.gif">
+        <img align="right" alt="Coding" width="400" src="https://github.com/eddzaa/eddzaa/blob/master/image.gif">
 
 </h3>
 <p> 
