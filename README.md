@@ -27,5 +27,3 @@
 <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank" rel="noreferrer"> <img src="https://www.opsmx.com/wp-content/uploads/2022/07/Argo-1-e1630327305635-1.png" alt="argocd" width="60" height="40"/> </a>
 <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" alt="prometheus" width="40" height="40"/> </a>
 <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=eddzaa&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
