@@ -12,8 +12,21 @@
     <br>
   </samp>
 </p><br clear="all">
-
 <h4>Tools & Languages:</h4>
-<p align="left">
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="aws" width="40" height="40"/></a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="bash" width="40" height="40"/></a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a> <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" alt="ansible" width="40" height="40"/></a> <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/></a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a> <a href="https://helm.sh/" target="_blank" rel="noreferrer"><img src="https://helm.sh/img/helm.svg" alt="HELM" width="40" height="40"/></a> <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank" rel="noreferrer"><img src="https://www.opsmx.com/wp-content/uploads/2022/07/Argo-1-e1630327305635-1.png" alt="argocd" width="40" height="40"/></a> <a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" alt="prometheus" width="40" height="40"/></a> <a href="https://grafana.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/></a>
-</p>
+
+<div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
+  <a href="https://aws.amazon.com"><img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="40"/></a>
+  <a href="https://azure.microsoft.com"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/></a>
+  <a href="https://cloud.google.com"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/></a>
+  <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" width="40"/></a>
+  <a href="https://www.jenkins.io"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40"/></a>
+  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a>
+  <a href="https://www.ansible.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" width="40"/></a>
+  <a href="https://www.terraform.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40"/></a>
+  <a href="https://kubernetes.io"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/></a>
+  <a href="https://helm.sh/"><img src="https://helm.sh/img/helm.svg" width="40"/></a>
+  <a href="https://argo-cd.readthedocs.io"><img src="https://www.opsmx.com/wp-content/uploads/2022/07/Argo-1-e1630327305635-1.png" width="40"/></a>
+  <a href="https://prometheus.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" width="40"/></a>
+  <a href="https://grafana.com"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40"/></a>
+</div>
