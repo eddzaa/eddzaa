@@ -6,7 +6,7 @@
 </h3>
 <p> 
   <samp>
-    「Lead Hybrid Cloud & Azure Stack HCI Engineer @ Lenovo」
+    「Lead Hybrid Cloud & Azure Stack HCI Engineer」
     <br>
     <br>
   </samp>
